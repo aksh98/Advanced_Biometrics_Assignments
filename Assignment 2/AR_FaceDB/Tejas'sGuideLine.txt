@@ -1,0 +1,13 @@
+[First see readme]
+
+
+1.Subject number : w-006 has just one sample
+Further investigation reveals that she is the same person as w-010.
+
+2.m-034-1.bmp : image is "spoiled". see it, you will know what I mean.
+
+
+It would be better if we ignore the w-006 subject, and show results on only remaining 136 subjects.
+Reject the m-034-1.bmp image.
+
+
